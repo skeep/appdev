@@ -1,0 +1,23 @@
+{
+  "name": "appdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skeep/appdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skeep/appdev/issues"
+  },
+  "homepage": "https://github.com/skeep/appdev#readme",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  }
+}
